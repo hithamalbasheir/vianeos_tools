@@ -44,7 +44,7 @@ This repository contains a collection of automation and utility scripts designed
   - Run the script to generate and export the contacts.
 
 ## Getting Started
-- Clone this repository: `git clone [repository-url]`
+- Clone this repository: `git clone [https://github.com/hithamalbasheir/vianeos_tools]`
 - Ensure you have the necessary dependencies installed for each script.
 - Follow the usage instructions for each tool as needed.
 
