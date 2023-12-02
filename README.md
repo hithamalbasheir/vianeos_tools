@@ -33,6 +33,7 @@ This repository contains a collection of automation and utility scripts designed
 - **Usage**: Run the script to move APK files back to their original location.
 
 ### 5. Mouse Movement Simulator (`mouse.py`)
+- **Stay online all the time with this** 🌝
 - **Purpose**: Simulates mouse movements to mimic user activity.
 - **Usage**: Run the script when needed to maintain an active status on your computer.
 
